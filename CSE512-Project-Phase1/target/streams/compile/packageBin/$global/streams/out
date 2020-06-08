@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\cse512-project-phase1-template_2.11-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$anonfun$runRangeJoinQuery$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$anonfun$runRangeJoinQuery$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$anonfun$runRangeQuery$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$anonfun$runRangeQuery$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SparkSQLExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SparkSQLExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$anonfun$runDistanceJoinQuery$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$anonfun$runDistanceJoinQuery$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SparkSQLExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SparkSQLExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$typecreator8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$typecreator8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$anonfun$runDistanceQuery$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$anonfun$runDistanceQuery$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\SpatialQuery$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\target\scala-2.11\classes\cse512\SpatialQuery$$typecreator4$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

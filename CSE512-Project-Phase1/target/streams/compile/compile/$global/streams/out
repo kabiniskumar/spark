@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\src\main\scala\cse512\SpatialQuery.scala:117:16: not found: value True[0m
+[0m[[0m[31merror[0m] [0m[0m        return True[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\DDS\CSE512-Project-Phase1-Template-master\CSE512-Project-Phase1-Template-master\src\main\scala\cse512\SpatialQuery.scala:120:16: not found: value False[0m
+[0m[[0m[31merror[0m] [0m[0m        return False[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
